@@ -1,0 +1,181 @@
+{
+  "basics": {
+    "name": "PARAS WANJARI",
+    "title": "Java Developer",
+    "summary": "Java Developer with 4.6 years of experience designing and optimizing enterprise applications using Spring Boot and JPA. Experienced in designing and implementing asynchronous programming solutions using Apache Kafka and RabbitMQ for high-throughput, event-driven backend systems and efficient message streaming. Experienced in implementing secure Single Sign-On (SSO) with Keycloak and OAuth 2.0, managing access for 10,000+ users. Proficient in integrating third-party APIs in domains such as payment processing and email/calendar communication to enhance functionality and streamline workflows. Strong problem solver and collaborative team player, delivering scalable, high-impact backend solutions aligned with business goals.",
+    "location": "",
+    "email": "paraswanjari66@gmail.com",
+    "phone": "+91 7350753466",
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "Paras Wanjari"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Tata Consultancy Services",
+      "role": "I.T Analyst",
+      "dates": "December 2025 – Present",
+      "location": "",
+      "bullets": [
+        "Joined Tata Consultancy Services on 22 December 2025"
+      ]
+    },
+    {
+      "company": "Capgemini",
+      "role": "Software Engineer (Java Consultant)",
+      "dates": "June 2025 – December 2025",
+      "location": "",
+      "bullets": [
+        "Migrated core backend processes of a legacy Bravura Sonata wealth management system from batch to a real-time streaming architecture using Apache Kafka, reducing data processing latency by 70%.",
+        "Developed Kafka producers to publish PAS object change events generated from the Sonata system, processing over 1 million events daily with 99.9% reliability.",
+        "Integrated Kafka with backend microservices previously reliant on Sonata’s batch services, increasing claims data ingestion throughput by 3x.",
+        "Improved dashboard responsiveness by replacing periodic batch updates from Sonata with event-triggered Kafka streams, enhancing UI refresh rates by 40%.",
+        "Created comprehensive technical documentation detailing the migration from Sonata’s batch architecture to a Kafka-driven event system to support team knowledge sharing and maintenance."
+      ]
+    },
+    {
+      "company": "Alore Pte Ltd.",
+      "role": "Java Developer",
+      "dates": "November 2021 – June 2025",
+      "location": "",
+      "bullets": [
+        "Engineered the architecture and deployment of Alore Growth OS projects, resulting in a 50 % reduction in customer onboarding time, implemented targeted features that supported over 1,000 active users monthly.",
+        "Executed the implementation of Keycloak-based Single Sign-On (SSO), which provided seamless authentication and access management for over 1,000 users, ultimately increasing user satisfaction and reducing internal security incidents.",
+        "Implemented OAuth 2.0 authentication mechanisms for Google and Outlook, ensuring secure and seamless user access across platforms.",
+        "Led the integration and utilization of third-party APIs, including Nylas, enhancing application capabilities and streamlining data interactions",
+        "Engineered the comprehensive implementation of Stripe APIs, optimizing the payment processing system to ensure a streamlined and efficient payment flow.",
+        "Implemented messaging solutions using JMS (RabbitMQ), leading to a 30% communication efficiency",
+        "Implemented Redis caching on high-traffic APIs, reducing average response time by 40 % lowering backend load under peak usage"
+      ]
+    },
+    {
+      "company": "Alore Pte Ltd.",
+      "role": "Java Developer - Intern",
+      "dates": "May 2021 – November 2021",
+      "location": "",
+      "bullets": [
+        "Designed and implemented a client data dashboard to showcase key metrics such as open rates, bounce rates, and replies.",
+        "Achieved a 25% increase in data visualization efficacy, facilitating more accurate analysis of client engagement metrics for enhanced team insights.",
+        "Implemented data validation measures, ensuring a 90% accuracy rate in metric reporting.",
+        "Enhanced dashboard responsiveness, resulting in a 20% reduction in data retrieval latency."
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "metric": "70%",
+      "context": "reduction in data processing latency by migrating to real-time streaming architecture using Apache Kafka."
+    },
+    {
+      "metric": "1M+",
+      "context": "events processed daily with 99.9% reliability using Kafka producers."
+    },
+    {
+      "metric": "3x",
+      "context": "increase in claims data ingestion throughput by integrating Kafka with backend microservices."
+    },
+    {
+      "metric": "40%",
+      "context": "enhancement in UI refresh rates by replacing batch updates with event-triggered Kafka streams."
+    },
+    {
+      "metric": "50%",
+      "context": "reduction in customer onboarding time through engineered architecture and deployment."
+    },
+    {
+      "metric": "1,000+",
+      "context": "users managed with seamless authentication via Keycloak-based SSO."
+    },
+    {
+      "metric": "40%",
+      "context": "reduction in average response time using Redis caching on high-traffic APIs."
+    },
+    {
+      "metric": "25%",
+      "context": "increase in data visualization efficacy for client engagement metrics."
+    },
+    {
+      "metric": "90%",
+      "context": "accuracy rate in metric reporting through data validation measures."
+    },
+    {
+      "metric": "20%",
+      "context": "reduction in data retrieval latency by enhancing dashboard responsiveness."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Project Alpha",
+      "stack": ["React", "Node.js", "MongoDB"],
+      "bullets": [
+        "Developed a full-stack e-commerce platform.",
+        "Implemented secure payment gateways.",
+        "Optimized database queries for 50% faster load times."
+      ],
+      "links": [
+        { "name": "GitHub", "url": "#" },
+        { "name": "Live Demo", "url": "#" }
+      ]
+    },
+    {
+      "title": "Project Beta",
+      "stack": ["Spring Boot", "Kafka", "PostgreSQL"],
+      "bullets": [
+        "Architected a microservices-based backend.",
+        "Integrated real-time data streaming.",
+        "Achieved 99.9% uptime across all services."
+      ],
+      "links": [
+        { "name": "GitHub", "url": "#" }
+      ]
+    },
+    {
+      "title": "Project Gamma",
+      "stack": ["Next.js", "Tailwind CSS", "TypeScript"],
+      "bullets": [
+        "Designed a responsive corporate dashboard.",
+        "Implemented dark mode and accessibility features.",
+        "Reduced bundle size by 30%."
+      ],
+      "links": [
+        { "name": "Live Demo", "url": "#" }
+      ]
+    },
+    {
+      "title": "Project Delta",
+      "stack": ["Java", "Redis", "Docker"],
+      "bullets": [
+        "Built a high-performance caching layer.",
+        "Containerized applications for seamless deployment.",
+        "Scaled system to handle 10k+ concurrent users."
+      ],
+      "links": [
+        { "name": "GitHub", "url": "#" }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Technical Skills",
+      "items": ["Java", "Spring Boot", "Microservice", "MySQL", "Kafka", "RabbitMQ", "JUnit", "Mockito", "Docker", "Postman", "AWS", "GitHub", "JIRA"]
+    },
+    {
+      "category": "Soft Skills",
+      "items": ["Quick learner", "Strong communication", "Team player", "Problem-solver", "Goal-oriented and proactive"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rashtrasant Tukdoji Maharaj University",
+      "location": "Nagpur",
+      "degree": "Bachelor of Engineering",
+      "dates": "July. 2015 – May 2019"
+    }
+  ],
+  "certifications": [],
+  "awards": [],
+  "extra": []
+}
